@@ -11,6 +11,7 @@ Pot app plugin collection from the community.
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Template](#template)
 - [Translate](#translate)
 - [Recognize](#recognize)
@@ -39,6 +40,7 @@ Pot app plugin collection from the community.
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - Tencent translate plugin
 - [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - Papago translate plugin
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - Youdao translate plugin
+- [pot-app-translate-plugin-youdaodict](https://github.com/McdheYxY/pot-app-translate-plugin-youdaodict) ![illegal] - YoudaoDict translate plugin
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - Baidu translate plugin
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate translate plugin
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API translate plugin

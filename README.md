@@ -11,6 +11,7 @@
 
 ## 目录
 
+- [目录](#目录)
 - [模板](#模板)
 - [翻译](#翻译)
 - [文字识别](#文字识别)
@@ -39,6 +40,7 @@
 - [pot-app-translate-plugin-tencent](https://github.com/TechDecryptor/pot-app-translate-plugin-tencent) ![illegal] - 免配置 腾讯翻译君插件
 - [pot-app-translate-plugin-papago](https://github.com/TechDecryptor/pot-app-translate-plugin-papago) ![illegal] - 免配置 Papago 翻译插件
 - [pot-app-translate-plugin-youdao](https://github.com/TechDecryptor/pot-app-translate-plugin-youdao) ![illegal] - 免配置 有道翻译插件
+- [pot-app-translate-plugin-youdaodict](https://github.com/McdheYxY/pot-app-translate-plugin-youdaodict) ![illegal] - 免配置 有道词典翻译插件
 - [pot-app-translate-plugin-baidu](https://github.com/TechDecryptor/pot-app-translate-plugin-baidu) ![illegal] - 免配置 百度翻译插件
 - [pot-app-translate-plugin-libre](https://github.com/Integral-Tech/pot-app-translate-plugin-libre) - LibreTranslate 翻译插件
 - [pot-app-translate-plugin-freedict](https://github.com/Integral-Tech/pot-app-translate-plugin-freedict) - Free Dictionary API 英英词典插件
